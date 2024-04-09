@@ -9,7 +9,7 @@ class Pantalla6_0967 extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          "Pantalla6 Moreno0967",
+          "Pantalla6 Molina0967",
           style: TextStyle(color: Colors.white),
         ),
         backgroundColor: const Color(0xff113dcd),
