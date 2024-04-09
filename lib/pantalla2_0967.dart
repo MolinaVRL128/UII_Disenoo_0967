@@ -57,7 +57,7 @@ class Pantalla2_0967 extends StatelessWidget {
             Container(
               margin: EdgeInsets.only(top: 20),
               child: const Text(
-                "Aterrizaje con Mat. 2130805128067",
+                "Encabezado con Mat. 2130805128067",
                 style: TextStyle(
                   fontSize: 18,
                 ),
